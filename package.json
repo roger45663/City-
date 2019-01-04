@@ -1,0 +1,14 @@
+{
+  "name": "my-buylist",
+  "version": "1.0.0",
+  "description": "My Buylist",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o dist/css/ --recursive"
+  },
+  "author": "Pei-Ting Lin",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
